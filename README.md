@@ -1,2 +1,2 @@
 # shrimple.club
-Files for my personal site and blog.
+Source code for my site, fairly basic
